@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728083618 source:d:\enspy\air et perimetre\main.c
+	<stdio.h>
+	<math.h>
+
