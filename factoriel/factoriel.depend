@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728081995 source:d:\enspy\factoriel\main.c
+	<stdio.h>
+	<stdlib.h>
+
